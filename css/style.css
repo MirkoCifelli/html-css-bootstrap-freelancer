@@ -2,11 +2,24 @@ header{
     background-color: #2C3E50;
     color:var(--bs-light);
 }
-
+header div i {
+    color:lightgrey ;
+}
 li{
     list-style: none;
     display: inline-block;
 } 
 ul{
     margin-bottom: 0;
+}
+#jumbotron{
+    background-color: #1ABC9C;
+    padding: 30px;
+}
+.img-jumbo{
+    max-width: 300px;
+}
+img{
+    width: 100%;
+    display: block;
 }
