@@ -23,3 +23,7 @@ img{
     width: 100%;
     display: block;
 }
+#about{
+    background-color: #1ABC9C;
+    color:var(--bs-light);
+}
