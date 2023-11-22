@@ -1,0 +1,12 @@
+header{
+    background-color: #2C3E50;
+    color:var(--bs-light);
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+} 
+ul{
+    margin-bottom: 0;
+}
