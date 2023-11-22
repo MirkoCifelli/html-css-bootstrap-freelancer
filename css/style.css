@@ -27,3 +27,11 @@ img{
     background-color: #1ABC9C;
     color:var(--bs-light);
 }
+.top-footer{
+    background-color:#3A546D ;
+    color: var(--bs-light);
+}
+.end-footer{
+    background-color:#2C3E50 ;
+    color: var(--bs-light);
+}
